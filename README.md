@@ -36,91 +36,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-DE CIVILITATE MORVN PVERIlium per DES. ERASMVM Roterodamum, Libellus nunc primum & conditus & aeditu
+De ciuilitate morun [sic] puerilium per Des. Erasmum Roterodamum, libellus nunc primum & conditus & 
 #####Body#####
 
-1. ¶ Erasmus Roterodam saluteth a chylde of noble bloode and of singuler hope / named Adolph. sonne vnto the prince of Uerian.
-
-    _ ¶Of the eyes.
-
-    _ ¶The coulour.
-
-    _ ¶The heere.
-
-    _ ¶The sholders.
-
-    _ ¶The body.
-
-    _ ¶The armes.
-
-    _ ¶Priuy membres.
-
-    _ ¶Of apparayle.
-
-    _ ¶Of maners in the temple.
-
-    _ ¶Of maners at table.
-
-    _ ¶Of metynge to gythers.
-
-    _ ¶Of gamynge and pla•.
-
-    _ ¶Of the chambre.
-
-    _ DE CVL•V.
-
-    _ DE MORIBVS in templo.
-
-    _ De conuiuijs.
-
-    _ De congressibus.
-
-    _ DE LVSV.
-
-    _ De cubiculo.
-
-1. ERASMVS Roterodamus generoso cum •rimis & optimi spe• puero Adolph. principis Veriani filio S.
-
-    _ ¶Of the eyes.
-
-    _ ¶The coulour.
-
-    _ ¶The heere.
-
-    _ ¶The sholders.
-
-    _ ¶The body.
-
-    _ ¶The armes.
-
-    _ ¶Priuy membres.
-
-    _ ¶Of apparayle.
-
-    _ ¶Of maners in the temple.
-
-    _ ¶Of maners at table.
-
-    _ ¶Of metynge to gythers.
-
-    _ ¶Of gamynge and pla•.
-
-    _ ¶Of the chambre.
-
-    _ DE CVL•V.
-
-    _ DE MORIBVS in templo.
-
-    _ De conuiuijs.
-
-    _ De congressibus.
-
-    _ DE LVSV.
-
-    _ De cubiculo.
-
 #####Back#####
-¶Thus endeth this lytell booke of good maner•: Imprinted at London in the Flete strete / at the sygnwynkyn worde
+De ciuilitate morun [sic] puerilium per Des. Erasmum Roterodamum, libellus nunc primum & conditus & 
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
@@ -154,32 +74,28 @@ There are 775 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|9||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|9||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -188,19 +104,16 @@ There are 775 **ommitted** fragments!
 |---|---|---|---|
 |1.|__abbr__|94||
 |2.|__am__|61||
-|3.|__back__|1||
-|4.|__body__|1||
-|5.|__desc__|775||
-|6.|__div__|24| @__type__ (24) : title_page (1), version (2), part (19), colophon (1), illustration (1)  •  @__xml:lang__ (2) : eng (0), lat (0)|
-|7.|__ex__|61||
-|8.|__expan__|61||
-|9.|__figure__|1||
-|10.|__front__|1||
-|11.|__g__|2072| @__ref__ (2072) : char:EOLunhyphen (81), char:EOLhyphen (740), char:cmbAbbrStroke (1190), char:abque (61)|
-|12.|__gap__|775| @__reason__ (775) : illegible (768), foreign (7)  •  @__resp__ (768) : #PDCC (768)  •  @__extent__ (768) : 1 letter (713), 2 letters (49), 1 span (4), 3 letters (1), 5 letters (1)|
-|13.|__head__|22||
-|14.|__hi__|6| @__rend__ (5) : sup (5)|
-|15.|__p__|128||
-|16.|__pb__|107| @__facs__ (107) : tcp:5824:1 (2), tcp:5824:2 (4), tcp:5824:3 (4), tcp:5824:4 (4), tcp:5824:5 (4), tcp:5824:6 (4), tcp:5824:7 (4), tcp:5824:8 (4), tcp:5824:9 (4), tcp:5824:10 (4), tcp:5824:11 (4), tcp:5824:12 (4), tcp:5824:13 (4), tcp:5824:14 (4), tcp:5824:15 (4), tcp:5824:16 (4), tcp:5824:17 (4), tcp:5824:18 (4), tcp:5824:19 (4), tcp:5824:20 (4), tcp:5824:21 (4), tcp:5824:22 (4), tcp:5824:23 (4), tcp:5824:24 (4), tcp:5824:25 (4), tcp:5824:26 (4), tcp:5824:27 (3), tcp:5824:28 (2)|
-|17.|__seg__|2| @__rend__ (2) : decorInit (2)|
-|18.|__trailer__|1||
+|3.|__desc__|775||
+|4.|__div__|24| @__type__ (24) : title_page (1), version (2), part (19), colophon (1), illustration (1)  •  @__xml:lang__ (2) : eng (0), lat (0)|
+|5.|__ex__|61||
+|6.|__expan__|61||
+|7.|__figure__|1||
+|8.|__g__|2072| @__ref__ (2072) : char:EOLunhyphen (81), char:EOLhyphen (740), char:cmbAbbrStroke (1190), char:abque (61)|
+|9.|__gap__|775| @__reason__ (775) : illegible (768), foreign (7)  •  @__resp__ (768) : #PDCC (768)  •  @__extent__ (768) : 1 letter (713), 2 letters (49), 1 span (4), 3 letters (1), 5 letters (1)|
+|10.|__head__|22||
+|11.|__hi__|6| @__rend__ (5) : sup (5)|
+|12.|__p__|128||
+|13.|__pb__|107| @__facs__ (107) : tcp:5824:1 (2), tcp:5824:2 (4), tcp:5824:3 (4), tcp:5824:4 (4), tcp:5824:5 (4), tcp:5824:6 (4), tcp:5824:7 (4), tcp:5824:8 (4), tcp:5824:9 (4), tcp:5824:10 (4), tcp:5824:11 (4), tcp:5824:12 (4), tcp:5824:13 (4), tcp:5824:14 (4), tcp:5824:15 (4), tcp:5824:16 (4), tcp:5824:17 (4), tcp:5824:18 (4), tcp:5824:19 (4), tcp:5824:20 (4), tcp:5824:21 (4), tcp:5824:22 (4), tcp:5824:23 (4), tcp:5824:24 (4), tcp:5824:25 (4), tcp:5824:26 (4), tcp:5824:27 (3), tcp:5824:28 (2)|
+|14.|__seg__|2| @__rend__ (2) : decorInit (2)|
+|15.|__trailer__|1||
