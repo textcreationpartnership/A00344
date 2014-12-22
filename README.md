@@ -36,11 +36,53 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-De ciuilitate morun [sic] puerilium per Des. Erasmum Roterodamum, libellus nunc primum & conditus & 
+
 #####Body#####
 
+1. ¶ Erasmus Roterodam saluteth a chylde of noble bloode and of singuler hope / named Adolph. sonne vnto the prince of Uerian.
+
+    _ ¶Of the eyes.
+
+    _ ¶The coulour.
+
+    _ ¶The heere.
+
+    _ ¶The sholders.
+
+    _ ¶The body.
+
+    _ ¶The armes.
+
+    _ ¶Priuy membres.
+
+    _ ¶Of apparayle.
+
+    _ ¶Of maners in the temple.
+
+    _ ¶Of maners at table.
+
+    _ ¶Of metynge to gythers.
+
+    _ ¶Of gamynge and pla•.
+
+    _ ¶Of the chambre.
+
+1. ERASMVS Roterodamus generoso cum •rimis & optimi spe• puero Adolph. principis Veriani filio S.
+
+    _ DE CVL•V.
+
+    _ DE MORIBVS in templo.
+
+    _ De conuiuijs.
+
+    _ De congressibus.
+
+    _ DE LVSV.
+
+    _ De cubiculo.
+
 #####Back#####
-De ciuilitate morun [sic] puerilium per Des. Erasmum Roterodamum, libellus nunc primum & conditus & 
+¶Thus endeth this lytell booke of good maner•: Imprinted at London in the Flete strete / at the sygnwynkyn worde
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
